@@ -16,3 +16,7 @@ Ideal para mantenerte organizado de manera rápida y eficiente.
 - HTML5
 - CSS3
 - JavaScript (vanilla)
+
+## 📷 Captura de pantalla
+
+![Vista previa de la app](./muestra.png)
